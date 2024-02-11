@@ -41,7 +41,6 @@
         }
     }
 
-
 </script>
 
 {#if streamState == "false"}
