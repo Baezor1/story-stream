@@ -61,7 +61,7 @@
         "resizable": true,
         "title": "Youtube Capture",
         "width": 1920,
-        "url": "/capture/youtube"
+        "url": "/socket"
       },
       {
         "fullscreen": false,
